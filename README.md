@@ -1,4 +1,5 @@
-<h2 align="center"><b>😎 Stack 😎</b></h2>
+<h2 align="center"><b>안녕하세요 백엔드 개발자 배정훈입니다 :)</b></h2>
+<h2 align="center"><b>My Stack </b></h2>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/MongoDB-red?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
