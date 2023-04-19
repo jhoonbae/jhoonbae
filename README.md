@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Node.js-orange?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/JavaScript-green?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/-docker-000080?style=flat-square&logo=docker&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/-ubuntu-8b00ff?style=flat-square&logo=ubuntu&logoColor=white"/></a> &nbsp
 
